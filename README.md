@@ -1,1 +1,1 @@
-# operational-insights-using-Amazon-DevOps-Guru-
+# Gaining operational insights with AIOps using Amazon DevOps Guru
