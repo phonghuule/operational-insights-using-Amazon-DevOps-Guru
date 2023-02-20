@@ -61,7 +61,7 @@ cd amazon-devopsguru-samples/generate-devopsguru-insights/
 ### Deploy Serverless Infrastructure
 As depicted in the following diagram, we use a CloudFormation stack to create a serverless infrastructure, comprising of [Amazon API Gateway](https://aws.amazon.com/api-gateway), [AWS Lambda](http://aws.amazon.com/lambda), and [Amazon DynamoDB](https://aws.amazon.com/dynamodb/), and inject HTTP requests at a high rate towards the API published to list records.
 
-![architecture](/images/architecture.png)
+![architecture](/images/Architecture.png)
 
 Deploy the CloudFormation template using the following command in Cloud 9:
 ```
