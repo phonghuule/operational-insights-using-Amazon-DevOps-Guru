@@ -4,6 +4,9 @@ This lab is provided as part of **[AWS Innovate Modern Applications Edition](htt
 
 ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
+ℹ️ Please let us know what you thought of this session and how we can improve the experience for you in the future by completing [the survey](#survey) at the end of the lab.
+Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits <sup> 1, 2 & 3 </sup>.
+
 ## **Overview**
 [Amazon DevOps Guru](https://aws.amazon.com/devops-guru/) offers a fully managed AIOps platform service that enables developers and operators to improve application availability and resolve operational issues faster. It minimizes manual effort by leveraging machine learning (ML) powered recommendations. DevOps Guru automatically detects operational issues, predicts impending resource exhaustion, details likely causes, and recommends remediation actions.
 
